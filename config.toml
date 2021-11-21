@@ -1,0 +1,4 @@
+baseURL = 'http://rascat.blog/'
+languageCode = 'en-us'
+title = 'Rascat`s Blog'
+theme = 'rascat'
